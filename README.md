@@ -14,8 +14,15 @@ This lab focuses on hands-on practice with **R programming**, covering arithmeti
 - Data structures: Vectors, Matrices, Lists, Data Frames  
 - Advanced practice: Logarithmic, Exponential, and Trigonometric functions  
 
-## 📜 Submission Guidelines  
-- Submit an `.R` script containing all solutions with output.  
-- Include comments explaining each step.  
-- Ensure the code is well-structured and readable.  
+
+## 📖 Tasks  
+1. Perform and print addition, subtraction, division, and multiplication of two numbers.  
+2. Convert temperature between **Celsius** and **Fahrenheit**.  
+3. Convert an amount in **rupees** to **dollars** and vice versa.  
+4. Swap values of two variables using a third variable.  
+5. Swap values of two variables **without** using a third variable.  
+6. Calculate and display the **volume of a cube** with given dimensions.  
+7. Calculate and print **simple interest**.  
+
+
 
