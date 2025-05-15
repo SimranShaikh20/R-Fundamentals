@@ -25,4 +25,57 @@ This lab focuses on hands-on practice with **R programming**, covering arithmeti
 7. Calculate and print **simple interest**.  
 
 
+---
 
+## 📁 Folder Structure
+
+This lab is organized into the following subfolders and files:
+
+### 🔹 Directories
+
+- **Basic_Syntax/**  
+  Contains basic R syntax demonstrations including variables, operators, conditional statements, loops, and functions.
+
+- **Correlation Analysis/**  
+  Covers how to calculate and visualize correlation between numerical variables using functions like `cor()`, `cor.test()`, and plotting correlation matrices.
+
+- **Curve Fitting/**  
+  Demonstrates how to perform curve fitting using polynomial and non-linear regression techniques.
+
+- **Regression Analysis/**  
+  Includes examples of simple linear regression and multiple linear regression using R's `lm()` function. Also covers residual analysis and model interpretation.
+
+- **Statistical/**  
+  Contains various statistical analysis methods, including hypothesis testing (t-tests, chi-squared tests), descriptive statistics, and data distribution checks.
+
+### 🔹 File
+
+- **Lab_4.ipynb**  
+  A Jupyter Notebook version of the above scripts combining explanations, code, and visual outputs for easier understanding and execution.
+
+---
+
+## 🎯 Objectives
+
+This lab helps learners:
+
+- Understand and implement basic R programming syntax
+- Conduct correlation and regression analysis
+- Perform statistical tests and hypothesis validation
+- Apply data modeling and curve fitting techniques
+- Gain hands-on experience with real-world data manipulation
+
+---
+
+## ⚙️ Requirements
+
+Make sure you have the following installed:
+
+### For R Scripts
+
+- R (≥ 4.0.0)
+- RStudio (optional, but preferred)
+
+Install required packages in R:
+```r
+install.packages(c("ggplot2", "car", "readr", "tidyverse", "MASS"))
